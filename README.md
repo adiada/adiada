@@ -32,4 +32,4 @@ I'm Adharsh from India. I love to create stuff and dive deep into its aspects. T
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adiada&hide_border=true)](https://github.com/adiada/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adiada&repo=Restaurant-Reviews-App&show_owner=true)](https://github.com/adiada/Restaurant-Reviews-App)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adiada&repo=Restaurant-Reviews-App)](https://github.com/adiada/Restaurant-Reviews-App)
