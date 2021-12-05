@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Adharsh from India. I love to create stuff and dive deep into its aspects. This is the main highlight for my love for coding. I have a solid understanding of the development process of a web application from sratch till deployment. I personally enjoy working with API endpoints and databases in general more than I generally do so with the frontend.
+I'm Adharsh from India. I love to create stuff and dive deep into its aspects. This is the main highlight for my love for coding. I have a solid understanding of the development process of a web application from scratch till deployment. I personally enjoy working with API endpoints and databases in general more than I generally do so with the frontend.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adiada)](https://github.com/anuraghazra/github-readme-stats)
