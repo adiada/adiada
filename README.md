@@ -25,6 +25,8 @@ I'm Adharsh from India. I love to create stuff and dive deep into its aspects. T
 
 ## Git Stats
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adiada)
+
 <img src="https://github-readme-stats.vercel.app/api?username=adiada&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=adiada&theme=radical"/>
 
 ## Top Programming Languages
