@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://www.linkedin.com/in/adharsh369"><img align="center" src="https://raw.githubusercontent.com/adiada/adiada/main/Untitled design.pgn"/></a>
+<a href="https://www.linkedin.com/in/adharshsuresh369"><img align="center" src="https://raw.githubusercontent.com/adiada/adiada/main/Untitled%20design.pgn"/></a>
 
 
 I'm Adharsh from India. I love to create stuff and dive deep into its aspects. This is the main highlight for my love for coding. I have a solid understanding of the development process of a web application from scratch till deployment. I personally enjoy working with API endpoints and databases in general more than I generally do so with the frontend.
