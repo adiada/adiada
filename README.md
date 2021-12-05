@@ -30,7 +30,7 @@ I'm Adharsh from India. I love to create stuff and dive deep into its aspects. T
 
 ## Top Programming Languages
 
-[![Javascript Badge]https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E]
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adiada&hide_border=true)](https://github.com/adiada/github-readme-stats)
 
