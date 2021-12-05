@@ -23,4 +23,6 @@ I'm Adharsh from India. I love to create stuff and dive deep into its aspects. T
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adiada)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://github-readme-stats.vercel.app/api?username=adiada&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=adiada&theme=radical"/>|
+<img src="https://github-readme-stats.vercel.app/api?username=adiada&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=adiada&theme=radical"/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adiada&theme=radical&title_color=8E2DE2&text_color=fff)
