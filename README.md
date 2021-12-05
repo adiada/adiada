@@ -30,4 +30,6 @@ I'm Adharsh from India. I love to create stuff and dive deep into its aspects. T
 
 ## Top Programming Languages
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adiada)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adiada&theme=radical&title_color=8E2DE2&text_color=fff)
