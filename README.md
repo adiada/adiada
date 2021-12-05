@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 [![Linkedin Badge](https://img.shields.io/badge/-adharshsuresh369-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adharshsuresh369/)](https://www.linkedin.com/in/adharshsuresh369/)
 
-## About Me 
+## About Me
 
 I'm Adharsh from India. I love to create stuff and dive deep into its aspects. This is the main highlight for my love for coding. I have a solid understanding of the development process of a web application from scratch till deployment. I personally enjoy working with API endpoints and databases in general more than I generally do so with the frontend.
 
@@ -37,4 +37,4 @@ I'm Adharsh from India. I love to create stuff and dive deep into its aspects. T
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adiada&repo=Restaurant-Reviews-App&show_owner=true)](https://github.com/adiada/Restaurant-Reviews-App)    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adiada&repo=JWT-auth&show_owner=true)](https://github.com/adiada/JWT-auth) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adiada&repo=Todo-List-App&show_owner=true)](https://github.com/adiada/Todo-List-App) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adiada&repo=Todo-API-Postgre&show_owner=true)](https://github.com/adiada/Todo-API-Postgre)
 
-[![](https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue)](#-about-me-)
+[![](https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue)](#about-me)
