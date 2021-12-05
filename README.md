@@ -35,3 +35,5 @@ I'm Adharsh from India. I love to create stuff and dive deep into its aspects. T
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adiada&hide_border=true)](https://github.com/adiada/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adiada&repo=Restaurant-Reviews-App&show_owner=true)](https://github.com/adiada/Restaurant-Reviews-App)    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adiada&repo=JWT-auth&show_owner=true)](https://github.com/adiada/JWT-auth) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adiada&repo=Todo-List-App&show_owner=true)](https://github.com/adiada/Todo-List-App) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adiada&repo=Todo-API-Postgre&show_owner=true)](https://github.com/adiada/Todo-API-Postgre)
+
+[![](https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue)](#shortcuts)
