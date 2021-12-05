@@ -32,4 +32,3 @@ I'm Adharsh from India. I love to create stuff and dive deep into its aspects. T
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adiada&hide_border=true)](https://github.com/adiada/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adiada&theme=radical&title_color=8E2DE2&text_color=fff)
