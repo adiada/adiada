@@ -37,11 +37,9 @@ I'm Adharsh from India. I love to create stuff and dive deep into its aspects. T
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adiada&repo=Restaurant-Reviews-App&show_owner=true)](https://github.com/adiada/Restaurant-Reviews-App)    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adiada&repo=JWT-auth&show_owner=true)](https://github.com/adiada/JWT-auth) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adiada&repo=Todo-List-App&show_owner=true)](https://github.com/adiada/Todo-List-App) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adiada&repo=Todo-API-Postgre&show_owner=true)](https://github.com/adiada/Todo-API-Postgre)
 
-[Link to Google](https://www.google.com)  
+# Resume
 
-[<img src="https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png" width="25"/>](https://www.google.com)
-
-[![Github All Releases](https://img.shields.io/badge/Download-Resume-orange)]()
+[![Github All Releases](https://img.shields.io/badge/Download-Resume-orange)](https://github.com/adiada/resume/raw/main/Adharsh_Resume.pdf)
 
 
 [![](https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue)](#about-me)
