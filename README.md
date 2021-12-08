@@ -39,7 +39,11 @@ I'm Adharsh from India. I love to create stuff and dive deep into its aspects. T
 
 # Resume
 
+You can download my resume by clicking on the badge given below
+
 [![Github All Releases](https://img.shields.io/badge/Download-Resume-orange)](https://github.com/adiada/resume/raw/main/Adharsh_Resume.pdf)
+
+
 
 
 [![](https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue)](#about-me)
