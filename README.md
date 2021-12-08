@@ -41,7 +41,7 @@ I'm Adharsh from India. I love to create stuff and dive deep into its aspects. T
 
 [<img src="https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png" width="25"/>](https://www.google.com)
 
-[![Github All Releases](https://img.shields.io/github/downloads/atom/atom/total.svg)]()
+[![Github All Releases](https://img.shields.io/badge/Download-Resume-orange)]()
 
 
 [![](https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue)](#about-me)
